@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashi421
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning javq
+- 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 9054266560
 - 😄 Pronouns: yana
